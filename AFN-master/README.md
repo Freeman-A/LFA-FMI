@@ -1,0 +1,2 @@
+# AFN
+Simulare AFN

@@ -1,0 +1,2 @@
+# AFD
+Simulare AFD
